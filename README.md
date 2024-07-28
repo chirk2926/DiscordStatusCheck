@@ -1,0 +1,2 @@
+# DiscordStatusCheck
+Discordのステータス変更を検知し指定したチャンネルに送信します
