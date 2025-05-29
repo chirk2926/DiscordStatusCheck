@@ -8,6 +8,7 @@ TOKEN と CHANNEL_IDにトークンとチャンネルIDを入力してくださ�
 `node index.js`
 
 discord.js@v13で作ってます。
+すぐリミット制限？オーバーしちゃうから小規模じゃないと使えなそうです。実際もう使ってないです。
 またいつかスラッシュコマンドで送信するチャンネルを指定できるようにするかもです。
 
 ![image](https://github.com/user-attachments/assets/13b8ab5b-9ad3-4ebd-ba69-8a0866d72944)
